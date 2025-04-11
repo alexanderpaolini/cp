@@ -1,0 +1,1 @@
+{"name":"Local: exam","url":"/Users/alexanderpaolini/Documents/Kattis/exam.cpp","tests":[{"id":1741456597343,"input":"3\nFTFFF\nTFTTT","output":"2"},{"id":1741456829314,"input":"6\nTTFTFFTFTF\nTTTTFFTTTT","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/Kattis/exam.cpp","group":"local","local":true}

@@ -1,8 +1,8 @@
 # Utility scripts
 
-**./clean.sh** - Cleans up all of the cpp files into their expected folder and then deletes the binary files.
+**./archive.sh** - Asks for each file which archive folder to place it into.
 
-> Usage: ./utils/clean.sh
+> Usage: ./utils/archive.py
 
 **./remove.sh** - Remove a file for whatever reason. Does not support files that have been archived.
 

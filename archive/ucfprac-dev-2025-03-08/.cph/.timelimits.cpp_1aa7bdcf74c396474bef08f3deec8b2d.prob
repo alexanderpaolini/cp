@@ -1,0 +1,1 @@
+{"name":"Local: timelimits","url":"/Users/alexanderpaolini/Documents/Kattis/timelimits.cpp","tests":[{"id":1741457284684,"input":"2 5\n200 250","output":"2"},{"id":1741457319311,"input":"3 4\n47 1032 1107","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/Kattis/timelimits.cpp","group":"local","local":true}

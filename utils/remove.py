@@ -20,7 +20,7 @@ def remove_files(NAME):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python3 script.py NAME")
+        print("Usage: python3 remove.py NAME")
         sys.exit(1)
 
     NAME = sys.argv[1]

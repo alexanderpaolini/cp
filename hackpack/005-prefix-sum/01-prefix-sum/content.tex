@@ -1,0 +1,10 @@
+
+The Prefix Sum technique involves constructing an auxiliary array \( S \), where each element \( S_i \) represents the sum of elements from the start of the array (index 0) up to index \( i \). This technique allows for constant-time (\( O(1) \)) computation of the sum of any subarray, after an initial preprocessing step.
+
+To compute the sum of the array from index \( n \) to \( m \), we can efficiently calculate it as:
+
+\[
+sum(n, m) = S_m - S_{n-1}
+\]
+
+This approach reduces the time complexity for sum queries from \( O(m - n + 1) \) to \( O(1) \), making it especially useful for solving problems with multiple range sum queries.
