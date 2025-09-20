@@ -71,7 +71,7 @@ def move_files(file_path):
 
 def main():
     for file_name in os.listdir("."):
-        if file_name.endswith(".cpp"):
+        if file_name.endswith(".cpp") or file_name.endswith(".py"):
             move_files(file_name)
 
     for file_name in os.listdir("."):

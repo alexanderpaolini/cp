@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/Users/alexanderpaolini/Documents/cp/a.cpp","tests":[{"id":1750036277371,"input":"3 1000\n5\n8\n7","output":"250\n400\n350"},{"id":1750036299518,"input":"1 500\n10","output":"500"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/cp/a.cpp","group":"local","local":true}

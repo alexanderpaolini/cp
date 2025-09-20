@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"/Users/alexanderpaolini/Documents/Kattis/f.cpp","tests":[{"id":1744479660729,"input":"3","output":"0"},{"id":1744479665305,"input":"6","output":"1"},{"id":1744479669953,"input":"12","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/Kattis/f.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: i","url":"/Users/alexanderpaolini/Documents/Kattis/i.cpp","tests":[{"id":1744480352002,"input":"eg\negg","output":"eeg\neegg\neg\nege\negeg\negge\neggg\ngegg\ngg\nggg"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/Kattis/i.cpp","group":"local","local":true}
