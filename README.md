@@ -6,7 +6,7 @@ Files can be worked on in the root directory. When completed, they can be archiv
 
 ## Hackpack
 
-I also store in this repository all of the code to generate the hackpack I made. Any applicable programmer-defined DSA (that I understand how to use) I put in `./utils/snippets/`. Then the `./utils/gen_hackpack.py` script generates a pdf using latex.
+I also store in this repository all of the code to generate the hackpack I made. Any applicable programmer-defined DSA (that I understand how to use) I put in `./hackpack/`. Then the `./utils/gen_hackpack.py` script generates a pdf using latex.
 
 ### Contributing
 
