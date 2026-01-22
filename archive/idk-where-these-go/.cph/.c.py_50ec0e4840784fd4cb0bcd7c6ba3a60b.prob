@@ -1,1 +1,0 @@
-{"name":"Local: c","url":"/Users/alexanderpaolini/Documents/cp/c.py","tests":[{"id":1750037307456,"input":"200 150 115\n40 190 0","output":"NO"},{"id":1750037433222,"input":"200 150 115\n40 150 315","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/cp/c.py","group":"local","local":true}

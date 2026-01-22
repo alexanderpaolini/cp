@@ -1,1 +1,0 @@
-{"name":"Local: roads","url":"/Users/alexanderpaolini/Documents/cp/roads.cpp","tests":[{"id":1757192238889,"input":"5 5 7\n5 2\n1 3\n3 4\n4 1\n4 3\n1 2 103\n1 5 104\n3 2 102\n3 5 101\n4 2 99\n4 5 100\n3 4 1","output":"99"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/cp/roads.cpp","group":"local","local":true}

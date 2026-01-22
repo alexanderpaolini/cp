@@ -1,1 +1,0 @@
-{"name":"Local: c","url":"/Users/alexanderpaolini/Documents/Kattis/c.cpp","tests":[{"id":1745081458749,"input":"5\n1 45 65 84 246","output":"4"},{"id":1745082174732,"input":"3\n310 330 350","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/Kattis/c.cpp","group":"local","local":true}

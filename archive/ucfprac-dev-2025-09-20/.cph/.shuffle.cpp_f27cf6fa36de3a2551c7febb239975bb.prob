@@ -1,1 +1,0 @@
-{"name":"Local: shuffle","url":"/Users/alexanderpaolini/Documents/cp/shuffle.cpp","tests":[{"id":1758390271051,"input":"2\n4\nAHAH\nHAHA\nHHAAAAHH\n3\nCDE\nCDE\nEEDDCC","output":"1 2\n2 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/cp/shuffle.cpp","group":"local","local":true}

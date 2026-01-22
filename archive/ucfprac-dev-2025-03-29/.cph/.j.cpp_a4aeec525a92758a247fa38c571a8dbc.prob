@@ -1,1 +1,0 @@
-{"name":"Local: j","url":"/Users/alexanderpaolini/Documents/Kattis/j.cpp","tests":[{"id":1743270361808,"input":"2\ne my pie\nd mkk in","output":"mkk in\nmy pie"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alexanderpaolini/Documents/Kattis/j.cpp","group":"local","local":true}
