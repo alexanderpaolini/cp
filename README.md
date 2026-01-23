@@ -1,6 +1,6 @@
-# CP
+# Competitive Programming
 
-Here are my CP solutions.
+Here are my competitive programming solutions.
 
 Files can be worked on in the root directory. When completed, they can be archived with the `./utils/clean.sh` script.
 
